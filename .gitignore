@@ -46,7 +46,7 @@ Intermediates/
 *.ngfx-proj
 
 # Exclude
-!vendor/bin/premake
+!vendor/bin/premake5
 
 
 # Rider files
