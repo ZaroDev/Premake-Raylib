@@ -30,9 +30,6 @@
 *.csproj
 *.csproj.user
 
-# User files
-/Engine/
-
 # VA config
 
 /JSON/
@@ -47,6 +44,9 @@ Intermediates/
 *.com%002Ffwlink%002F%003Flinkid%003D835884
 *.pdb
 *.ngfx-proj
+
+# Exclude
+!vendor/bin/premake
 
 
 # Rider files
