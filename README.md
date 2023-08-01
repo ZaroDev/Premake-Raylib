@@ -1,6 +1,6 @@
 # Welcome to my Premake Raylib template
 
-This is an easy to work on template to make own games with Raylib without dealing with setting up anything.
+This is an easy-to-work-on template to make your own games with Raylib without dealing with setting up anything.
 This template includes the core Raylib library but you can include as many dependencies as you want. For that check ``Dependencies.lua``
 
 ## Instructions
