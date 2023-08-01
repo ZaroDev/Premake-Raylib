@@ -1,3 +1,4 @@
+-- Put your dependencies paths here
 IncludeDir = {}
 IncludeDir["raylib"] = "%{wks.location}/vendor/raylib/include"
 
